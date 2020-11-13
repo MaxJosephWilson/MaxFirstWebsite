@@ -1,0 +1,76 @@
+* {
+    background-color: rgba(125, 173, 236, 0.788);
+    font-size: 24px;
+    text-align: center;
+    color: black;
+    @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+    padding: 25px;
+}
+
+p {
+    text-align: left;
+}
+
+h1 {
+    color: black;
+    font-size: 40px;
+   }
+
+h2 {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
+A1.png {
+    height: 10px;
+    width: 200px;
+}
+
+img {
+    width: 50%;
+   }
+
+.Pic {
+    width: 20%;
+}
+
+#para1 {
+    text-align: center;
+}
+
+.box {
+    color:white;
+    font-size: 15
+    0px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-align: center;
+    padding:15px;
+    width: 33.3333%;
+    }
+
+.box1 {
+    background: rgb(34, 185, 34);
+}
+
+.box2 {
+    background: rgb(95, 0, 163);
+}
+
+.box3 {
+    background: rgb(211, 146, 6);
+}
+
+.box4 {
+    background: rgb(21, 150, 224);
+}
+
+.box5 {
+    background: rgb(226, 22, 8);
+}
+
+.box6 {
+    background: rgb(241, 78, 201);
+}
